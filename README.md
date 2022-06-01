@@ -1,4 +1,4 @@
-## reading-notes
+## Reading-Notes
 My learning journal for Code Fellows!
 
 *A growth mindset is important in growth and success in this program and in any career field.*
