@@ -13,5 +13,4 @@ I've learned how to use some basic tools like *Italics*, **Bold Text**, and edit
 
 This page was built using [GitHub Pages](https://pages.github.com/)
 
-`code`
 ______
