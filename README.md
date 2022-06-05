@@ -1,7 +1,7 @@
 ## Reading-Notes
 My learning journal for Code Fellows!
 
-I've learned how to use some basic tools like *Italics*, **Bold Text**, and editing header size. These commands are basic blocks in the fundamental building of my own site. Markdown is a language that allows us to create pages similar format to HTML. I've also learned how to format my page by using jekyl for a basic template.
+My name is Jun, I go by He/Him, and I've learned how to use some basic tools like *Italics*, **Bold Text**, and editing header size. These commands are basic blocks in the fundamental building of my own site. Markdown is a language that allows us to create pages similar format to HTML. I've also learned how to format my page by using jekyl for a basic template.
 
 *A growth mindset is important in growth and success in this program and in any career field.*
 
