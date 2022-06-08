@@ -11,8 +11,10 @@ My name is Jun, I go by He/Him, and I've learned how to use some basic tools lik
 
 >Don't worry about failure. Worry about the chances you miss when you dont even try.
 
-This page was built using [GitHub Pages](https://pages.github.com/)
-
 ______
 
+[Reading Notes - Class 2]()
+
 [Reading Notes - Class 3](https://github.com/Junyoungson808/reading-notes/edit/main/Class%203)
+
+[Reading Notes - Class 4]()
