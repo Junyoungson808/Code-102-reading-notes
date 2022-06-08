@@ -1,0 +1,12 @@
+# Reading Notes - Class 2 - Markdown (.md)
+
+Nearly all Markdown applications support the basic syntax outlined in the original Markdown design document.
+Mark down and the use of these basic syntax will help build our pages and will provide us with the tools to create professional web pages in the future.
+
+### Headings - #
+  - # H1, ## H2, ### H3, upto H6
+  
+### **Bold** - **Bold**
+  - **Bold** 
+  
+### *Italics*
