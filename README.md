@@ -14,3 +14,4 @@ My name is Jun, I go by He/Him, and I've learned how to use some basic tools lik
 This page was built using [GitHub Pages](https://pages.github.com/)
 
 ______
+[Reading Notes - Class 3](Class%203)
