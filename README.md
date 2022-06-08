@@ -1,20 +1,18 @@
 ## Reading-Notes
+
 My learning journal for Code Fellows!
 
-My name is Jun, I go by He/Him, and I've learned how to use some basic tools like *Italics*, **Bold Text**, and editing header size. These commands are basic blocks in the fundamental building of my own site. Markdown is a language that allows us to create pages similar format to HTML. I've also learned how to format my page by using jekyl for a basic template.
+Hello my name is Jun, I just started getting into coding! currently transitioning out of the my military service. I have decided I want to enter the world of tech! I previously worked at Puget Sound Energy as a Engineering Specialist. I am big into travelling and going out to find places to eat!
 
-*A growth mindset is important in growth and success in this program and in any career field.*
+---
 
-- Never give up
-- Ask questions / What am I trying to solve?
-- Exercise 
+## Code 102
 
->Don't worry about failure. Worry about the chances you miss when you dont even try.
-
-______
-
-[Reading Notes - Class 2]()
-
-[Reading Notes - Class 3](https://github.com/Junyoungson808/reading-notes/edit/main/Class%203)
-
-[Reading Notes - Class 4]()
+[Reading 1 - Growth Mindset]()
+[Reading 2 - The Coder's Computer]()
+[Reading 3 - Git/GitHub](https://github.com/Junyoungson808/reading-notes/edit/main/Class%203)
+[Reading 4 - HTML]()
+[Reading 5 - CSS]()
+[Reading 6 - JavaScript]()
+[Reading 7 - Functions]()
+[Reading 8 - Loops]()
