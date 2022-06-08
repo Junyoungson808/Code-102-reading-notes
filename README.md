@@ -8,9 +8,9 @@ Hello my name is Jun, I just started getting into coding! currently transitionin
 
 ## Code 102
 
-[Reading 1 - Growth Mindset]()
-[Reading 2 - The Coder's Computer]()
-[Reading 3 - Git/GitHub](https://github.com/Junyoungson808/reading-notes/edit/main/Class%203)
+[Reading 1 - Growth Mindset](Class1.md)
+[Reading 2 - The Coder's Computer](Class2.md)
+[Reading 3 - Git/GitHub](Class3.md)
 [Reading 4 - HTML]()
 [Reading 5 - CSS]()
 [Reading 6 - JavaScript]()
