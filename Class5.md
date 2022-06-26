@@ -12,7 +12,7 @@ Color, Size, create layout, animations, etc.
 
 CSS is a rule-based language. Define rules by specifying groups of styles that should be applied to particular elements or groups of elements on your web page.
 
-Example: 
+Example:
 h1 {
     color:red
     font-size: 5em;

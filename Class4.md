@@ -10,4 +10,4 @@ HTML is a markup language that defines the structure of your content. HTML consi
 
 Semantics
 
-Semantics refers to the meaning of a piece of code. A good example of this in HTML would be the header, 
+Semantics refers to the meaning of a piece of code. A good example of this in HTML would be the header. 

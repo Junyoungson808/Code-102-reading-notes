@@ -31,4 +31,3 @@ DOM API: allows you to manipulate HTML and CSS, Creating removing and changing H
 Geolocation API retrieces geographical information.
 Canvas & WebGL APIs allow you to create animated 2D and 3D graphics.
 Audio & Video APIs like HTMLMediaElement and WebRTC
-
