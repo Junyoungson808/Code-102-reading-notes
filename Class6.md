@@ -3,13 +3,17 @@
 Javascript (JS): is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.
 Javascript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object oriented, imperative, and declaritive styles (e.g.functional programming).
 
+---
+
 Standards of Javascript are: ECMAScript Language Specification
 ECMA-262
 ECMA-402
 
-Java and Javascript are different
+---
 
 Javascript: is a scripting or a programing language that allows you to implement complex features on web pages.
+
+---
 
 Structure:
 HTML >> CSS >> Javascript
