@@ -14,5 +14,5 @@ Hello my name is Jun, I just started getting into coding! currently transitionin
 [Reading 4 - HTML](Class4.md)
 [Reading 5 - CSS](Class5.md)
 [Reading 6 - JavaScript](Class6.md)
-[Reading 7 - Functions]()
-[Reading 8 - Loops]()
+[Reading 7 - Functions](Class7.md)
+[Reading 8 - Loops](Class8.md)
